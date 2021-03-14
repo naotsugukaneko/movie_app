@@ -1,0 +1,18 @@
+ja:
+  activerecord:
+    models:
+      movie: 動画
+    attributes:
+      movie:
+        title: タイトル
+        url: URL
+  attributes:
+    id: ID
+    namespace: 名前空間
+    resource_type: リソースタイプ
+    resource_id: リソースID
+    author_type: 筆者タイプ
+    author_id: 筆者ID
+    created_at: 作成日時
+    updated_at: 更新日時
+    
